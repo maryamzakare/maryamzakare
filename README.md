@@ -1,16 +1,51 @@
-## Hi there 👋
+# Maryam Zakare
 
-<!--
-**maryamzakare/maryamzakare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity-focused IT professional and Master's student with experience in incident response, cyberattack research, networking, access control, digital forensics, Linux security, and security analysis.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am building hands-on cybersecurity experience through research projects, cyber range labs, networking projects, incident response work, and security-focused IT support.
+
+My portfolio focuses on practical security skills: investigating incidents, analyzing cyberattack data, understanding network behavior, securing systems, and documenting findings clearly.
+
+## Main Portfolio
+
+- [Cybersecurity Portfolio](https://github.com/maryamzakare/cybersecurity-portfolio)
+
+## Focus Areas
+
+- Incident response
+- Threat hunting
+- Cyberattack research
+- Digital forensics
+- Network security
+- Linux permissions and access control
+- DDoS attack detection
+- AI and cybersecurity research
+- Penetration testing fundamentals
+- Cryptography
+
+## Tools and Technologies
+
+- Python
+- R
+- Java
+- Linux
+- Windows
+- iOS
+- Nmap
+- Splunk
+- Elastic Stack
+- Sysinternals
+- PowerShell
+- Bash
+- Kali Linux
+- Metasploit
+- Autopsy
+- WinHex
+- VMware
+- VirtualBox
+
+## Career Interests
+
+I am interested in cybersecurity analyst, SOC analyst, incident response, threat intelligence, vulnerability management, IAM, GRC, digital forensics, and security operations roles.
