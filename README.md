@@ -15,7 +15,6 @@ My portfolio focuses on practical security skills: investigating incidents, anal
 ## Focus Areas
 
 - Incident response
-- Threat hunting
 - Cyberattack research
 - Digital forensics
 - Network security
